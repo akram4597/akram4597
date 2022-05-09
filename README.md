@@ -1,9 +1,4 @@
 ## 👋 Hey there! I’m Akram Mohammed.
-### About Me
-💡   I love learning and problem solving. \
-💻 In my free time, I love watching interesting YouTube videos and creating content on LinkedIn. \
-🌱 I’m currently learning React.js and MongoDB \
-👨‍💻 I am a SharePoint Support Engineer at Microsoft. 
 
 ### 🛠 Tech Stack
 
